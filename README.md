@@ -109,9 +109,3 @@ We perform **data fetching, merging, visualization, and statistical analysis**, 
 - Historical trends show percentage growth in GDP 💰 and CPI 🏠 over the years  
 
 ---
-
-## ⚡ How to Run
-
-1. Clone this repository  
-```bash
-git clone <your-repo-url>
