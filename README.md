@@ -102,6 +102,24 @@ We perform **data fetching, merging, visualization, and statistical analysis**, 
 
 ---
 
+## ❓ Problem Statement  
+The objective of this analysis is to evaluate India’s **living standards and economic growth trends** by examining the relationship between **GDP, GDP per capita, population growth, and living cost** over time (1975–2023).  
+
+Despite consistent growth in GDP and GDP per capita, rising population and increasing living costs may influence the overall economic well-being of citizens.  
+
+This study aims to identify:  
+- 👥 How population growth impacts GDP and GDP per capita  
+- 💰 The relationship between **living cost and GDP per capita**  
+- ⚖️ Whether improvements in GDP per capita are sufficient to offset the rising living costs  
+- 🔑 Key influencers driving changes in population and economic indicators  
+
+The goal is to uncover patterns, correlations, and challenges that can guide **policy makers, economists, and businesses** in making informed decisions to improve **living standards and sustainable economic growth**.  
+
+---
+
+## 🎯 Objective  
+To analyze the relationship between **GDP, GDP per capita, population, and living cost** in India (1975–2023) in order to identify **growth trends, key influencers, and their impact on living standards**.  
+
 ## 📊 Insights
 
 - Strong correlation between **GDP** 💹 and **GDP per capita** 👤  
